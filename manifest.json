@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "Method Draw Vector Editor",
+  "description": "You’d be surprised at how difficult it is to match a color with its written name in this Kids True Color game, a fun and educational title for future artists everywhere",
   "dir": "ltr",
   "display": "standalone",
-  "name": "Method Draw Vector Editor",
+  "name": "Kids True Colors",
   "orientation": "any",
   "scope": "/",
-  "short_name": "Method Draw Vector Editor",
+  "short_name": "Kids True Colors",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,9 +48,9 @@
   ],
   "shortcuts": [
     {
-      "name": "Method Draw Vector Editor",
+      "name": "Kids True Colors",
       "url": "",
-      "description": ""
+      "description": "You’d be surprised at how difficult it is to match a color with its written name in this Kids True Color game, a fun and educational title for future artists everywhere"
     }
   ]
 }
